@@ -1,4 +1,4 @@
-# Coding-Club-Assgn.
+# Coding-Club-Assignment:
 Rediff Headlines Fetcher using Beautiful Soup
 
 This program scrapes Rediff website for headlines of the day given by the user.
