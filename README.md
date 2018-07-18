@@ -1,4 +1,4 @@
-# Coding-Club-Assignment:
+# Ubuntu Notifier Tool:
 Rediff Headlines Fetcher using Beautiful Soup
 
 This program scrapes Rediff website for headlines of the day given by the user.
