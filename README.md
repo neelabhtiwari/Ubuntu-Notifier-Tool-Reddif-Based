@@ -1,4 +1,4 @@
-# Ubuntu Notifier Tool ---
+#                      ---    Ubuntu Notifier Tool ---
 
 ----- Description -----
 
